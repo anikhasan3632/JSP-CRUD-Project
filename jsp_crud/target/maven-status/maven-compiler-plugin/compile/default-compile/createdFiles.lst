@@ -1,0 +1,7 @@
+com\idb\jsp_crud\student\StudentServlet.class
+com\idb\jsp_crud\student\StudentDao.class
+com\idb\jsp_crud\JakartaRestConfiguration.class
+com\idb\jsp_crud\resources\JakartaEE8Resource.class
+com\idb\jsp_crud\student\Student.class
+com\idb\jsp_crud\auth\AuthServlet.class
+com\idb\jsp_crud\config\DbConfig.class
